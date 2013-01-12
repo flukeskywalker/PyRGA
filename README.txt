@@ -1,0 +1,1 @@
+PyRGA: A standalone real coded Genetic Algorithm in Python
